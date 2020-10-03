@@ -17,8 +17,7 @@ const searchStates = async searchText => {
         matchList.innerHTML = '';
     }
 
-    console.log(matches);
-    // outputHtml(matches);
+    outputHtml(matches);
 }
 
 const outputHtml = matches => {

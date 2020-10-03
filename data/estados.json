@@ -1,0 +1,177 @@
+[
+    {
+        "abbr": "AM",
+        "name": "Amazonas",
+        "capital": "Puerto Ayacucho",
+        "lat": "-4.479925",
+        "long": "-63.5185396"
+    },
+    {
+        "abbr": "AN",
+        "name": "Anzoátegui",
+        "capital": "Barcelona",
+        "lat": "9",
+        "long": "-64.5"
+    },
+    {
+        "abbr": "AP",
+        "name": "Apure",
+        "capital": "San Fernando de Apure",
+        "lat": "7.166667",
+        "long": "-68.833333"
+    },
+    {
+        "abbr": "AR",
+        "name": "Aragua",
+        "capital": "Maracay",
+        "lat": "10",
+        "long": "-67.166667"
+    },
+    {
+        "abbr": "BA",
+        "name": "Barinas",
+        "capital": "Barinas",
+        "lat": "8.166667",
+        "long": "-69.833333"
+    },
+    {
+        "abbr": "BO",
+        "name": "Bolívar",
+        "capital": "Ciudad Bolívar",
+        "lat": "8.1080955",
+        "long": "-63.551078"
+    },
+    {
+        "abbr": "CA",
+        "name": "Carabobo",
+        "capital": "Valencia",
+        "lat": "10.166667",
+        "long": "10.166667"
+    },
+    {
+        "abbr": "CO",
+        "name": "Cojedes",
+        "capital": "San Carlos",
+        "lat": "9.333333",
+        "long": "-68.333333"
+    },
+    {
+        "abbr": "DA",
+        "name": "Delta Amacuro",
+        "capital": "Tucupita",
+        "lat": "8.6282101",
+        "long": "-61.5648108"
+    },
+    {
+        "abbr": "DC",
+        "name": "Distrito Capital",
+        "capital": "Caracas",
+        "lat": "10.506098",
+        "long": "-66.9146017"
+    },
+    {
+        "abbr": "DEF",
+        "name": "Dependencias Federales",
+        "capital": "Gran Roque",
+        "lat": "11.9508013",
+        "long": "-66.6771701"
+    },
+    {
+        "abbr": "FA",
+        "name": "Falcón",
+        "capital": "Coro",
+        "lat": "11",
+        "long": "-69.833333"
+    },
+    {
+        "abbr": "GU",
+        "name": "Guárico",
+        "capital": "San Juan de los Morros",
+        "lat": "8.666667",
+        "long": "-66.583333"
+    },
+    {
+        "abbr": "LA",
+        "name": "Lara",
+        "capital": "Barquisimeto",
+        "lat": "10.2284518",
+        "long": "-69.8197975"
+    },
+    {
+        "abbr": "LG",
+        "name": "La Guaira",
+        "capital": "La Guaira",
+        "lat": "10.6105431",
+        "long": "-66.8982426"
+    },
+    {
+        "abbr": "ME",
+        "name": "Mérida",
+        "capital": "Mérida",
+        "lat": "8.5875788",
+        "long": "-71.1572352"
+    },
+    {
+        "abbr": "MI",
+        "name": "Miranda",
+        "capital": "Los Teques",
+        "lat": "10.25",
+        "long": "-66.416667"
+    },
+    {
+        "abbr": "MO",
+        "name": "Monagas",
+        "capital": "Maturín",
+        "lat": "9.333333",
+        "long": "-63"
+    },
+    {
+        "abbr": "NE",
+        "name": "Nueva Esparta",
+        "capital": "La Asunción",
+        "lat": "10.973851",
+        "long": "-64.059768"
+    },
+    {
+        "abbr": "PO",
+        "name": "Portuguesa",
+        "capital": "Guanare",
+        "lat": "8.9673907",
+        "long": "-69.391735"
+    },
+    {
+        "abbr": "SU",
+        "name": "Sucre",
+        "capital": "Cumaná",
+        "lat": "10.416667",
+        "long": "-63.5"
+    },
+    {
+        "abbr": "TA",
+        "name": "Táchira",
+        "capital": "San Cristóbal",
+        "lat": "7.980578",
+        "long": "-72.097576"
+    },
+    {
+        "abbr": "TR",
+        "name": "Trujillo",
+        "capital": "Trujillo",
+        "lat": "9.572153",
+        "long": "-70.536308"
+    },
+    {
+        "abbr": "YA",
+        "name": "Yaracuy",
+        "capital": "San Felipe",
+        "lat": "10.333333",
+        "long": "-68.75"
+    },
+    {
+        "abbr": "ZU",
+        "name": "Zulia",
+        "capital": "Maracaibo",
+        "lat": "10.043756",
+        "long": "-72.219118"
+    }
+]

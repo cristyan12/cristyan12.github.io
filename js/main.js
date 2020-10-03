@@ -8,8 +8,7 @@ const searchStates = async searchText => {
     let matches = states.filter(state => {
         const regex = new RegExp(`^${searchText}`, 'gi');
         return state.name.match(regex)
-          || state.abbr.match(regex)
-          || state.capital.match(regex);
+          || state.abbr.match(regex);
     });
 
     if (searchText.length === 0) {

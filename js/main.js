@@ -2,7 +2,7 @@ const search = document.getElementById('search');
 const matchList = document.getElementById('match-list');
 
 const searchStates = async searchText => {
-    const response = await fetch('../data/states.json');
+    const response = await fetch('https://raw.githubusercontent.com/cristyan12/states-capital-lookup/main/data/states.json');
     const states = await response.json();
 
     let matches = states.filter(state => {
@@ -17,7 +17,8 @@ const searchStates = async searchText => {
         matchList.innerHTML = '';
     }
 
-    outputHtml(matches);
+    console.log(matches);
+    // outputHtml(matches);
 }
 
 const outputHtml = matches => {
